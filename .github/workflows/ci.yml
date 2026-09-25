@@ -2,7 +2,7 @@ name: Continuous Integration
 on:
   push:
     branches:
-      - main
+      - practice-2
 jobs:
   build:
     name: Build
